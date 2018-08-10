@@ -3,7 +3,7 @@
 ### setup
 `. venv/bin/activate`
 
-`export FLASK_APP=app/main`
+`export FLASK_APP=app`
 
 `export FLASK_ENV=development`
 
