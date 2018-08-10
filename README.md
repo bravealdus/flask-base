@@ -1,4 +1,4 @@
-# fablab-incbations
+# Flask minimal base
 
 ### setup
 `. venv/bin/activate`
